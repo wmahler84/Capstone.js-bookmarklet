@@ -1,2 +1,3 @@
 # Capstone.js-bookmarklet
-pages redirect after rename
+Repo moved
+http://williammahler.github.io/Capstone.js-bookmarklet/
